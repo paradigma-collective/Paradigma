@@ -1,4 +1,4 @@
-[:flag_br: Leia em português](/README.md)
+[:flag_br: Leia em português](/README)
 
 ## Documentation and visual assets from the Paradigma collective
 

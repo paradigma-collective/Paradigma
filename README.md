@@ -1,4 +1,4 @@
-[:flag_us: Read this in english](/en_US.md)
+[:flag_us: Read this in english](/en_US)
 
 ## Documentação e material gráfico do coletivo Paradigma
 
