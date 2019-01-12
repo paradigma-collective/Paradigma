@@ -1,0 +1,27 @@
+#+TITLE: Paradigma - Organização
+#+AUTHOR: [REDACTED]
+
+* Hackerspace(?)
+  - Decisões sobre nome
+* Decidir sobre servidores [0%]
+  - [ ] Comprar o domínio (JP, BR.. )
+  - [ ] Ver o custo de servidores / (sdf.org, linode, digitalocean, webfaction, riseup, altistici)
+  - [ ] LDAP + Kerberos (Autenticações)
+* Pessoas [55%]
+ + [ ] [REDACTED]
+* Serviços à se fazer [0%]
+  - [ ] Telegram (Bridge / Riot)
+  - [ ] Riot
+  - [ ] Home ~Wordpress~ + Wiki
+  - [ ] Git
+* Grupos para divulgação [0%]
+[REDACTED]
+* Listar lugares para realização de atividades
+[REDACTED]
+* Eventos à participar
+[REDACTED]
+* Atividades a se elaborar
+- ShellPunks
+- 1NF0 S3C - H4K∩D40
+- EMACS / ((((((((((LISP LISP LISP LISP)))))))))) / Programação Funcional
+- In a NutShell
