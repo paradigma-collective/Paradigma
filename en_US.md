@@ -1,4 +1,8 @@
-[:flag_br: Leia em português](/README)
+❗ **Warning:** archival version, this repository hasn't been updated since 2019
+
+---
+
+[🇧🇷 Leia em português](/README)
 
 ## Documentation and visual assets from the Paradigma collective
 
