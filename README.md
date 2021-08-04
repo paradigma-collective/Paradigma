@@ -1,4 +1,8 @@
-[:flag_us: Read this in english](/en_US)
+❗ **Atenção:** versão de arquivo, este repositório não foi atualizado desde 2019
+
+---
+
+[🇺🇸 Read this in english](/en_US)
 
 ## Documentação e material gráfico do coletivo Paradigma
 
