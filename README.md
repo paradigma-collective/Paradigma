@@ -1,8 +1,4 @@
-❗
-
-**Atenção:** versão de arquivo, este repositório não foi atualizado desde 2019
-
-**Warning:** archival version, this repository hasn't been updated since 2019
+❗ **Atenção:** versão de arquivo, este repositório não foi atualizado desde 2019 / **Warning:** archival version, this repository hasn't been updated since 2019
 
 ---
 
